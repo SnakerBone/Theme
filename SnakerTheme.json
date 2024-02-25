@@ -19,11 +19,11 @@
             "#FFFFFF"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF",
+            "#FFAED7",
             "#000000"
         ],
         "TEXT_MUTED": [
-            "#C3C3C3",
+            "#FF77BC",
             "#FFFFFF"
         ],
         "INTERACTIVE_NORMAL": [
@@ -91,11 +91,11 @@
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#5E5E5E",
+            "#A90076",
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#5E5E5E",
+            "#A90076",
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [

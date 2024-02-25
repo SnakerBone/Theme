@@ -19,27 +19,27 @@
             "#FFFFFF"
         ],
         "TEXT_NORMAL": [
-            "#FFAED7",
-            "#000000"
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#FF77BC",
+            "#FFFFFF",
             "#FFFFFF"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FFFFFF",
+            "#FF77BC",
             "#FFFFFF"
         ],
         "INTERACTIVE_HOVER": [
-            "#5B5B5B",
+            "#FF0081",
             "#FFFFFF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FFFFFF",
+            "#FF77BC",
             "#FFFFFF"
         ],
         "INTERACTIVE_MUTED": [
-            "#FFFFFF",
+            "#FF77BC",
             "#FFFFFF"
         ],
         "BACKGROUND_PRIMARY": [
@@ -91,11 +91,11 @@
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#A90076",
+            "#5D3FD3",
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#A90076",
+            "#5D3FD3",
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [

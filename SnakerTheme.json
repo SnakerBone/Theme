@@ -31,15 +31,15 @@
             "#FFFFFF"
         ],
         "INTERACTIVE_HOVER": [
-            "#FF0081",
+            "#5D3FD3",
             "#FFFFFF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FF77BC",
+            "#5D3FD3",
             "#FFFFFF"
         ],
         "INTERACTIVE_MUTED": [
-            "#FF77BC",
+            "#5D3FD3",
             "#FFFFFF"
         ],
         "BACKGROUND_PRIMARY": [
@@ -91,11 +91,11 @@
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#5D3FD3",
+            "#2C2C2C",
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#5D3FD3",
+            "#2C2C2C",
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [

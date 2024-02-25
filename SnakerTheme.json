@@ -51,7 +51,7 @@
             "#FFFFFF"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#A90076",
+            "#2C2C2C",
             "#FFFFFF"
         ],
         "BACKGROUND_TERTIARY": [
@@ -131,7 +131,7 @@
             "#FFFFFF"
         ],
         "TEXT_LINK": [
-            "#2C2C2C",
+            "#FF00FF",
             "#FFFFFF"
         ],
         "KEYBOARD": [
